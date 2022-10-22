@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Restoran Barokah</string>
+    <string name="deskripsi_menu">Hamburger atau burger adalah sejenis roti berbentuk bundar yang diiris dua, dan di tengahnya diisi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombai. Sebagai sausnya, hamburger diberi berbagai jenis saus seperti mayones, saus tomat dan sambal, serta moster.</string>
+    <string name="bahan">Bahan :
+        Hamburger atau burger adalah sejenis roti berbentuk bundar yang diiris dua, dan di tengahnya diisi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombai.</string>
+    <string name="Resep">Resep Restoran Barokah</string>
+    <string name="harga">Harga</string>
+    <string name="Harga_Burger">Rp. 20.000</string>
+
+    <string name="deskripsi_float">Salah satu menu minuman yang paling populer dan paling banyak dicari dalam restoran cepat saji Restoran Barokah adalah  float. Rasanya yang segar dengan campuran es krim vanilla membuat siapa saja yang meminumnya akan ketagihan. Nah daripada beli, tidak ada salahnya mencoba membuat  float sendiri di rumah.</string>
+    <string name="bahan_minuman_float">Bahan : 1 botol COCA-COLA 390 ml. Kopi hitam instan, larutkan dengan air panas 100 ml.Es krim vanila. Es batu.</string>
+    <string name="Resep_minuman_float">Resep Minuman float</string>
+    <string name="Harga_float">Rp. 10000</string>
+
+    <string name="deskripsi_kentang">Kentang goreng adalah hidangan yang dibuat dari potongan-potongan kentang yang digoreng dalam minyak goreng panas. Di dalam menu rumah-rumah makan, kentang goreng yang dipotong panjang-panjang dan digoreng dalam keadaan terendam di dalam minyak goreng panas disebut French fries</string>
+    <string name="bahan_kentang">Bahan : 3-4 buah kentang ukuran besar
+1 sdt garam halus
+1 sdm gula pasir
+1 sdm maizena
+2 sdm tepung terigu
+3 siung bawang putih, digeprek
+Oregano bubuk secukupnya (bisa diskip)
+Kaldu atau garam halus secukupnya
+Air dan garam secukupnya untuk merendam kentang</string>
+    <string name="Resep_kentang">untuk memasak kentang goreng agar tidak terlalu menyerap minyak adalah dengan merebusnya dulu. Sebelum digoreng, kentang bisa direbus selama 10 menit dalam keadaan sudah dipotong-potong. Nantinya kentang akan menjadi lunak dan tidak perlu waktu lama untuk menggorengnya.</string>
+    <string name="Harga_kentang">Rp. 70000</string>
+</resources>
